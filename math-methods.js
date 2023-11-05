@@ -8,7 +8,7 @@ console.log(Math.PI);
 // Bereken de omtrek van een cirkel met een diameter van 4 en log dit in de terminal. De eenheid (cm, meters, etc. maakt niet uit).
 // Tip: de formule is omtrek = diameter * pi
 // ---- Verwachte uitkomst: 12.566370614359172
-
+//first commit
 
 /* Opdracht 2: */
 // Bereken de omtrek van een cirkel met een diameter van 12 en rond dit af naar een heel getal. Log dit in de terminal.
